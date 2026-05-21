@@ -23,7 +23,7 @@
 
 ###
 
-<h1 align="center">Hi there 👋 I'm Anuroop Jayan</h1>
+<h1 align="center">Hi there 👋 I'm Anuroop</h1>
 
 ###
 
